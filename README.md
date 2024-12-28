@@ -15,14 +15,6 @@ This is a responsive website design for a **Chicken Restaurant**, built purely u
 - **Media Queries**: To make the website mobile-friendly by adjusting the layout according to the device’s screen size.
 - **Flexbox**: Used for creating flexible grid layouts and aligning items responsively.
 
-
- ##SVG File:
- 
-
-## Getting Started
-
-To view the project on your local machine, follow the steps below:
-
 ### Prerequisites
 
 No special prerequisites are required. You'll need:
