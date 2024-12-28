@@ -1,4 +1,4 @@
-# Chicken Restaurant Website
+# THE CRISPY COOP
 
 This is a responsive website design for a **Chicken Restaurant**, built purely using **HTML** and **CSS**. The project is aimed at creating a clean and user-friendly layout for showcasing the restaurant's menu, contact information, and more. It features a modern design that adapts to different screen sizes and devices.
 
